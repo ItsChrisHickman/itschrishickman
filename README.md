@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris Hickman!</h1>
 <h3 align="center">I like to stay extreeeeemly busy writing useful things!</h3>
 
-- 🔭 I’m currently working on [internal things at matterport.com](https://matterport.com)
-
-- 🌱 I’m currently learning **tests**
-
-- 👯 I’m looking to collaborate on [public examples for our SDK users](https://matterport.github.io/showcase-sdk/)
-
-- I find that every time I want to do something, I'm tempted to try to 'Use AI'. but then I have a mix of emotions including anxiety, stress, low self esteem and other things.  Why don't I think AI is useful?  What is wrong with me?  :-)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cchickman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cchickman" height="30" width="40" /></a>
