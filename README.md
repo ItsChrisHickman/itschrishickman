@@ -1,6 +1,6 @@
 # Chris Hickman
 
-I build things for the internet. Currently an engineer at [Matterport](https://matterport.com), where most of my code lives internally.
+I build things for the internet. Currently an engineer at [Matterport](https://matterport.com) on the [SDK team](https://matterport.github.io/showcase-sdk/), where most of my code lives internally.
 
 Mostly software, sometimes products, occasionally [music](https://christopherhickman.com) with AI.
 
