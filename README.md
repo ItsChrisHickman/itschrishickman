@@ -2,7 +2,7 @@
 
 I build things for the internet. Currently an engineer at [Matterport](https://matterport.com), where most of my code lives internally.
 
-Mostly software, sometimes products, occasionally weird music with AI.
+Mostly software, sometimes products, occasionally [music](https://christopherhickman.com) with AI.
 
 ## Past projects
 
